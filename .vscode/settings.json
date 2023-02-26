@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__availability": "cpp",
+        "__functional_03": "cpp",
+        "cstdlib": "cpp",
+        "ctime": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp"
+    }
+}
